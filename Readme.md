@@ -17,7 +17,7 @@ To run the DNS Name Resolver program, follow these steps:
 5. Run the following command:
 
     ```
-    python main.py input.txt output.txt
+    python main.py input.txt input2.txt <more input files> output.txt
     ```
 
     Replace `input.txt` with the path to your input file and `output.txt` with the desired path for the output file.
